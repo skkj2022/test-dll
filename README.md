@@ -1,2 +1,2 @@
-# test-django
-# test git and django
+# test-dll
+# test dll
