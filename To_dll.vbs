@@ -1,0 +1,1 @@
+createobject("wscript.shell").run"cmd /c gcc -shared -o mydll.dll mydll.c"
